@@ -35,7 +35,7 @@ Remember to bring the receipts, especially the one that shows the $1,299.99 lapt
 Also, don’t forget to tag us using #TechLaunch2025 and #Innovation_Hub in your posts!
 
 Best regards,  
-Des
+Des G
 """
 
 results = extract_data(testing_text)
