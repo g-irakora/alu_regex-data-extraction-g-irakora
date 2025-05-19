@@ -39,7 +39,7 @@ cd alu_regex-data-extraction-g-irakora/
 ### 2. Run the Script
 
 ```bash
-python My_Regex_project.py
+python data_extraction.py
 ```
 
 ### 3. Sample
