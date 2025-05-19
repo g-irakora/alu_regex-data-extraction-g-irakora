@@ -26,8 +26,8 @@ def extract_data(text):
 testing_text = """
 Hi John,
 
-Please email me at john.doe123@example.com or jane_doe@company.co.uk if you have any questions.  
-You can also reach out by phone at (123) 456-7890 or 987-654-3210.
+Please email me at g.irakora@alustudent.com or irakoragasana@techlaunch.co.rw if you have any questions.  
+You can also reach out by phone at (035) 456-7890 or 790-349-9200.
 
 The meeting is scheduled for 10:30 AM, and the backup session will be at 14:45.  
 Remember to bring the receipts, especially the one that shows the $1,299.99 laptop purchase.
@@ -35,7 +35,7 @@ Remember to bring the receipts, especially the one that shows the $1,299.99 lapt
 Also, don’t forget to tag us using #TechLaunch2025 and #Innovation_Hub in your posts!
 
 Best regards,  
-Mark
+Des
 """
 
 results = extract_data(testing_text)

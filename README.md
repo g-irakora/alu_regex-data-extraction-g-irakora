@@ -45,13 +45,15 @@ python data_extraction.py
 ### 3. Sample
 These are the Extracted patterns from our testing text: 
 
+These are the Extracted patterns from our testing text: 
+
 Emails:
-  - john.doe123@example.com
-  - jane_doe@company.co.uk
+  - g.irakora@alustudent.com
+  - irakoragasana@techlaunch.co.rw
 
 Phone Numbers:
-  - (123) 456-7890
-  - 987-654-3210
+  - (035) 456-7890
+  - 790-349-9200
 
 Times:
   - 10:30 AM
